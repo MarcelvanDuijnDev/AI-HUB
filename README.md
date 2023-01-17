@@ -6,7 +6,7 @@
 - [Image Generation](#image)
 - [Text Generation](#text)
 - [Audio Generation](#audio)
-- [Model/Platform Explanation](#model-and-platform-explanation)
+- [Model/Platform Explanation](#model-and-platform-information)
 - [AI Terminology](#ai-terminology)
 
 # Image
@@ -25,13 +25,14 @@
 |Text Gen|Free|
 |----|----|
 |[ChatGPT](https://chat.openai.com/chat)|✓|
+|[NovelAI](https://novelai.net/stories)|x|
 
 # Audio
 |Audio Gen|Free|
 |----|----|
 |[Soundraw](https://soundraw.io/)|x|
 
-# Model and Platform Explanation
+# Model and Platform Information
 |Model/Platform|AI Models/Technique/Framework|
 |----|----|
 |[Artbreeder](https://en.wikipedia.org/wiki/Artbreeder)|[StyleGAN](https://en.wikipedia.org/wiki/StyleGAN), BigGAN|
