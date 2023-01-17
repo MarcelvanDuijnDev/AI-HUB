@@ -7,14 +7,14 @@
 - [AI Terminology](#ai-terminology)
 
 # Image
-|Image Gen|Free|
-|----|----|
-|[Stable Diffusion](https://beta.dreamstudio.ai/dream)|x|
-|[Midjourney](https://midjourney.com/home)|x|
-|[Dall-E 2](https://openai.com/dall-e-2/)|x|
-|[Artbreeder](https://www.artbreeder.com/)|x|
-|[Craiyon](https://www.craiyon.com/)|✓|
-|[DeepAI](https://deepai.org/)|x|
+|Image Gen|Free|Cost|Examples|
+|----|----|----|----|
+|[Stable Diffusion](https://beta.dreamstudio.ai/dream)|x|$10 = 1000 credits, 1img=~2.5credits|[_stablediffusion.fr/prompts_](https://stablediffusion.fr/prompts)|
+|[Midjourney](https://midjourney.com/home)|x|$10/month=~200img, $30/month=unlimited img|[_midjourney.com/showcase/top/_](https://midjourney.com/showcase/top/)|
+|[Dall-E 2](https://openai.com/dall-e-2/)|x|$15 = 115 credits + free 15 credits per month, 1img=~15credits||
+|[Artbreeder](https://www.artbreeder.com/)|x|[4 plans, $0 - $38.99 per month (_artbreeder.com/pricing_)](https://www.artbreeder.com/pricing)|[_artbreeder.com/browse_](https://www.artbreeder.com/browse)|
+|[Craiyon](https://www.craiyon.com/)|✓|||
+|[DeepAI](https://deepai.org/machine-learning-model/text2img)|✓|Free but extra paid options available|[_deepai.org/art_](https://deepai.org/art)|
 
 # Text
 |Text Gen|Free|
@@ -26,6 +26,7 @@
 |----|----|
 |[Soundraw](https://soundraw.io/)|x|
 
+_!Tip: Use F3 to search terms_
 # AI Terminology
 |Terms|Explanation|
 |----|----|
@@ -39,6 +40,7 @@
 |Explainable AI (XAI)|A subfield of AI that aims to make the decision-making process of AI models transparent and interpretable to humans.|
 |Generative Adversarial Networks (GANs)|A type of deep learning model that consists of two parts, a generator and a discriminator, that are trained together in a competitive manner.|
 |Generative Models|A type of model that can generate new data samples that are similar to the training data.|
+|GPT|"Generative Pre-trained Transformer". It is a language model developed by OpenAI that uses deep learning techniques to generate text. GPT-3 is the third version of this model, and it is one of the largest and most powerful language models available, with 175 billion parameters. GPT-3 is pre-trained on a massive dataset of text, and it can generate coherent and fluent text on a wide range of topics, it can be fine-tuned to perform specific tasks such as language translation, text summarization, and question answering. The model can also generate human-like text, completing the sentence, paragraphs, and even entire articles. GPT-3 has been used in various applications such as chatbots, language translation, and text generation, among others.|
 |Gradient Descent|An optimization algorithm used to find the values of parameters that minimize a loss function.|
 |Hyperparameter|A value that determines the behavior of a model, but is set by the modeler, not learned from the data.|
 |Inference|The process of using a trained model to make predictions or decisions on new data.|
@@ -54,3 +56,4 @@
 |Training Data|Data used to train a model. It helps the model to learn from examples and improve its performance.|
 |Transfer Learning|A technique where a model that has been trained on one task is fine-tuned on a different but related task.|
 |Unsupervised Learning|A method of machine learning where the model is not provided with labeled data, and must find patterns or structure in the input data on its own.|
+
