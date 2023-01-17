@@ -7,14 +7,15 @@
 - [AI Terminology](#ai-terminology)
 
 # Image
-|Image Gen|Free|Cost|Examples|
-|----|----|----|----|
-|[Stable Diffusion](https://beta.dreamstudio.ai/dream)|x|$10 = 1000 credits, 1img=~2.5credits|[_stablediffusion.fr/prompts_](https://stablediffusion.fr/prompts)|
-|[Midjourney](https://midjourney.com/home)|x|$10/month=~200img, $30/month=unlimited img|[_midjourney.com/showcase/top/_](https://midjourney.com/showcase/top/)|
-|[Dall-E 2](https://openai.com/dall-e-2/)|x|$15 = 115 credits + free 15 credits per month, 1img=~15credits||
-|[Artbreeder](https://www.artbreeder.com/)|x|[4 plans, $0 - $38.99 per month (_artbreeder.com/pricing_)](https://www.artbreeder.com/pricing)|[_artbreeder.com/browse_](https://www.artbreeder.com/browse)|
-|[Craiyon](https://www.craiyon.com/)|✓|||
-|[DeepAI](https://deepai.org/machine-learning-model/text2img)|✓|Free but extra paid options available|[_deepai.org/art_](https://deepai.org/art)|
+|Image Gen|Free|Cost|Examples|Reddit|
+|----|----|----|----|----|
+|[Stable Diffusion](https://beta.dreamstudio.ai/dream)|x|$10 = 1000 credits, 1img=~2.5credits|[_stablediffusion.fr/prompts_](https://stablediffusion.fr/prompts)|[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)|
+|[Midjourney](https://midjourney.com/home)|x|$10/month=~200img, $30/month=unlimited img|[_midjourney.com/showcase/top/_](https://midjourney.com/showcase/top/)|[r/midjourney](https://www.reddit.com/r/midjourney/)|
+|[Dall-E 2](https://openai.com/dall-e-2/)|x|$15 = 115 credits + free 15 credits per month, 1img=~15credits||[dalle2](https://www.reddit.com/r/dalle2/)|
+|[Artbreeder](https://www.artbreeder.com/)|x|[4 plans, $0 - $38.99 per month (_artbreeder.com/pricing_)](https://www.artbreeder.com/pricing)|[_artbreeder.com/browse_](https://www.artbreeder.com/browse)|[r/ArtBreeder](https://www.reddit.com/r/ArtBreeder/)|
+|[Craiyon](https://www.craiyon.com/)|✓|||[r/craiyon](https://www.reddit.com/r/craiyon/)|
+|[DeepAI](https://deepai.org/machine-learning-model/text2img)|✓|Paid options available|[_deepai.org/art_](https://deepai.org/art)|x|
+|[NovelAI](https://novelai.net/stories)|x|[Trail + Paid options available](https://novelai.net/)|[_novelai.net/contest/gallery_](https://novelai.net/contest/gallery)|[r/NovelAi](https://www.reddit.com/r/NovelAi/)|
 
 # Text
 |Text Gen|Free|
