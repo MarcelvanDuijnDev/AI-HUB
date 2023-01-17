@@ -13,7 +13,7 @@
 |Image Gen|Free|Cost|Examples|Reddit|
 |----|----|----|----|----|
 |[Midjourney](https://midjourney.com/home)|x|$10/month=~200img, $30/month=unlimited img|[_midjourney.com/showcase/top/_](https://midjourney.com/showcase/top/)|[r/midjourney](https://www.reddit.com/r/midjourney/)|
-|[Dall-E 2](https://openai.com/dall-e-2/)|x|$15 = 115 credits + free 15 credits per month, 1img=~15credits||[dalle2](https://www.reddit.com/r/dalle2/)|
+|[Dall-E 2](https://openai.com/dall-e-2/)|x|$15 = 115 credits + free 15 credits per month, 1img=~15credits||[r/dalle2](https://www.reddit.com/r/dalle2/)|
 |[DreamStudio](https://beta.dreamstudio.ai/dream)|x|$10 = 1000 credits, 1img=~2.5credits|[_stablediffusion.fr/prompts_](https://stablediffusion.fr/prompts)|[r/DreamstudioAI](https://www.reddit.com/r/DreamstudioAI/)|
 |[Stable Diffusion](https://stablediffusionweb.com/#demo)|✓||[_stability.ai/blog/..._](https://stability.ai/blog/stable-diffusion-public-release)|[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)|
 |[Artbreeder](https://www.artbreeder.com/)|x|[4 plans, $0 - $38.99 per month (_artbreeder.com/pricing_)](https://www.artbreeder.com/pricing)|[_artbreeder.com/browse_](https://www.artbreeder.com/browse)|[r/ArtBreeder](https://www.reddit.com/r/ArtBreeder/)|
@@ -32,14 +32,18 @@
 |[Soundraw](https://soundraw.io/)|x|
 
 # Model and Platform Explanation
-|Model/Platform|Explanation|
+|Model/Platform|AI Models/Technique/Framework|
 |----|----|
-|||
-|||
-|||
-|||
-|||
-|||
+|[Artbreeder](https://en.wikipedia.org/wiki/Artbreeder)|[StyleGAN](https://en.wikipedia.org/wiki/StyleGAN), BigGAN|
+|[ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)|[GPT-3](https://en.wikipedia.org/wiki/GPT-3)|
+|Craiyon|[DALL-E](https://en.wikipedia.org/wiki/DALL-E)|
+|[Dall-E 2](https://en.wikipedia.org/wiki/DALL-E)|[GPT-3](https://en.wikipedia.org/wiki/GPT-3)|
+|DeepAI||
+|DreamStudio|[Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)|
+|[Midjourney](https://en.wikipedia.org/wiki/Midjourney)|[GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network)|
+|[NovelAI](https://en.wikipedia.org/wiki/NovelAI)|[Diffusion model](https://en.wikipedia.org/wiki/Diffusion_model), [GPT](https://en.wikipedia.org/wiki/OpenAI#GPT)|
+|Soundraw||
+|[Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)|[Diffusion Model](https://en.wikipedia.org/wiki/Diffusion_model)|
 
 _!Tip: Use F3 to search terms_
 # AI Terminology
