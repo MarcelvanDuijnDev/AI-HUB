@@ -1,4 +1,4 @@
-# AI-CheatSheet
+# AI-HUB
 
 [Click here to Hide About](https://github.com/MarcelvanDuijnDev/AI-CheatSheet/blob/main/README.md)
 
