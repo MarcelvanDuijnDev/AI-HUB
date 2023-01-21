@@ -21,6 +21,7 @@
 |[Craiyon](https://www.craiyon.com/)|✓|||[r/craiyon](https://www.reddit.com/r/craiyon/)|
 |[DeepAI](https://deepai.org/machine-learning-model/text2img)|✓|Paid options available|[_deepai.org/art_](https://deepai.org/art)|x|
 |[NovelAI](https://novelai.net/stories)|x|[Trail + Paid options available](https://novelai.net/)|[_novelai.net/contest/gallery_](https://novelai.net/contest/gallery)|[r/NovelAi](https://www.reddit.com/r/NovelAi/)|
+|[PlaygroundAI](https://playgroundai.com/)|x|[3 plans(free = 1000img per day)](https://playgroundai.com/pricing)|[playgroundai.com/](https://playgroundai.com/)|x|
 
 # Text
 |Text Gen|Free|
@@ -46,6 +47,7 @@
 |[NovelAI](https://en.wikipedia.org/wiki/NovelAI)|[Diffusion model](https://en.wikipedia.org/wiki/Diffusion_model), [GPT](https://en.wikipedia.org/wiki/OpenAI#GPT)|
 |Soundraw||
 |[Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)|[Diffusion Model](https://en.wikipedia.org/wiki/Diffusion_model)|
+|PlaygroundAI|[Diffusion Model](https://en.wikipedia.org/wiki/Diffusion_model), [Dall-E 2](https://en.wikipedia.org/wiki/DALL-E)|
 
 # Interesting AI
 Reddit:
