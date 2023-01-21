@@ -7,6 +7,7 @@
 - [Text Generation](#text)
 - [Audio Generation](#audio)
 - [Model/Platform Explanation](#model-and-platform-information)
+- [Interesting AI Forums/Websites](#interesting-ai)
 - [AI Terminology](#ai-terminology)
 
 # Image
@@ -45,6 +46,11 @@
 |[NovelAI](https://en.wikipedia.org/wiki/NovelAI)|[Diffusion model](https://en.wikipedia.org/wiki/Diffusion_model), [GPT](https://en.wikipedia.org/wiki/OpenAI#GPT)|
 |Soundraw||
 |[Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)|[Diffusion Model](https://en.wikipedia.org/wiki/Diffusion_model)|
+
+# Interesting AI
+Reddit:
+* [r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/)
+* [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 _!Tip: Use F3 to search terms_
 # AI Terminology
