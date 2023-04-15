@@ -1,3 +1,5 @@
+[<back](https://github.com/MarcelvanDuijnDev/AI-HUB)
+
 _!Tip: Use F3 to search terms_
 # AI Terminology
 |Terms|Explanation|
