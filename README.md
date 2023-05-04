@@ -1,6 +1,8 @@
-# AI-HUB
-***
-[Click here to Hide About](https://github.com/MarcelvanDuijnDev/AI-CheatSheet/blob/main/README.md)
+### HUB
+
+* [AI-HUB](https://github.com/MarcelvanDuijnDev/AI-HUB)
+* [SOFTWARE-HUB](https://github.com/MarcelvanDuijnDev/Software-HUB)
+
 ***
 ## Pages
 - [Terminology](https://github.com/MarcelvanDuijnDev/AI-HUB/blob/main/Terminology.md)
