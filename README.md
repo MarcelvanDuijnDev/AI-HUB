@@ -24,12 +24,14 @@
 |[Midjourney](https://midjourney.com/home)|[_midjourney.com/showcase/top/_](https://midjourney.com/showcase/top/)|[r/midjourney](https://www.reddit.com/r/midjourney/)|
 |[Dall-E 2](https://openai.com/dall-e-2/)||[r/dalle2](https://www.reddit.com/r/dalle2/)|
 |[DreamStudio](https://beta.dreamstudio.ai/dream)|[_stablediffusion.fr/prompts_](https://stablediffusion.fr/prompts)|[r/DreamstudioAI](https://www.reddit.com/r/DreamstudioAI/)|
-|[Stable Diffusion](https://stablediffusionweb.com/#demo)||[_stability.ai/blog/..._](https://stability.ai/blog/stable-diffusion-public-release)|[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)|
+|[Stable Diffusion](https://stablediffusionweb.com/#demo)|[_stability.ai/blog/..._](https://stability.ai/blog/stable-diffusion-public-release)|[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)|
 |[Artbreeder](https://www.artbreeder.com/)|[_artbreeder.com/browse_](https://www.artbreeder.com/browse)|[r/ArtBreeder](https://www.reddit.com/r/ArtBreeder/)|
 |[Craiyon](https://www.craiyon.com/)||[r/craiyon](https://www.reddit.com/r/craiyon/)|
 |[DeepAI](https://deepai.org/machine-learning-model/text2img)|[_deepai.org/art_](https://deepai.org/art)|x|
 |[NovelAI](https://novelai.net/stories)|[_novelai.net/contest/gallery_](https://novelai.net/contest/gallery)|[r/NovelAi](https://www.reddit.com/r/NovelAi/)|
-|[PlaygroundAI](https://playgroundai.com/)|[playgroundai.com/](https://playgroundai.com/)|x|
+|[PlaygroundAI](https://playgroundai.com/)|[_playgroundai.com/_](https://playgroundai.com/)|x|
+|[Skybox.Blockadelabs](https://www.blockadelabs.com/)|[_blockadelabs.com/_](https://www.blockadelabs.com/#intro)|[r/blockadelabs](https://www.reddit.com/user/blockadelabs/)|
+|[Lexica](https://lexica.art/)||[r/lexica](https://www.reddit.com/r/lexica/)|
 
 
 ## Text
