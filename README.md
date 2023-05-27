@@ -13,6 +13,7 @@
 - [Image Generation](#image)
 - [Text Generation](#text)
 - [Audio Generation](#audio)
+- [Life Improvement](#improvement)
 - [Interesting AI Github Repos](#ai-repos)
 - [Interesting AI Forums/Websites](#interesting-ai)
 
@@ -54,6 +55,12 @@
 |----|----|----|
 |[Copilot X]()|https://github.com/features/preview/copilot-x||
 |[Codex (openai)](https://openai.com/blog/openai-codex)|||
+
+
+# Improvement
+|Improvement|Examples|Reddit|
+|----|----|----|
+|[Brain.fm](https://www.brain.fm/)|||
 
 
 ## AI Repos
